@@ -1,6 +1,9 @@
 # Multilingual Share GPT
 Multilingual Share GPT, the free multi-language corpus for LLM training. All text are converted to markdown format.
 
+## Link to Dataset
+The dataset can be downloaded at [huggingface.co](https://huggingface.co/datasets/cryscan/multilingual-share).
+
 ## Data Example
 ```json
 {
